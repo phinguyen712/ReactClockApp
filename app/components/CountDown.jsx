@@ -5,7 +5,7 @@ var CountDown = React.createClass({
   render: function () {
     return (
         <div>
-        <CLock></CLock>
+        <Clock totalSeconds={129}/>
 
         </div>
     );
